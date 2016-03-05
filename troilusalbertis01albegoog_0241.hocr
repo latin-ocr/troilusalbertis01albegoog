@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./troilusalbertis01albegoog_0241.png"; bbox 0 0 3372 4788; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 697 3845 1097 3881">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 697 3845 1097 3881">
+     <span class='ocr_line' id='line_1_1' title="bbox 697 3845 1097 3881; baseline -0.01 -2"><span class='ocrx_word' id='word_1_1' title='bbox 697 3849 806 3881; x_wconf 63' lang='lat' dir='ltr'>inmun</span> <span class='ocrx_word' id='word_1_2' title='bbox 821 3847 891 3878; x_wconf 67' lang='grc' dir='ltr'>ΠΡῙΙ</span> <span class='ocrx_word' id='word_1_3' title='bbox 905 3847 926 3877; x_wconf 71' lang='lat'>⁸.</span> <span class='ocrx_word' id='word_1_4' title='bbox 938 3845 961 3876; x_wconf 74' lang='lat'>0·</span> <span class='ocrx_word' id='word_1_5' title='bbox 969 3845 1097 3878; x_wconf 69' lang='lat' dir='ltr'>uuum.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1690 4788">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1690 4788">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1690 4788; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1690 4788; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

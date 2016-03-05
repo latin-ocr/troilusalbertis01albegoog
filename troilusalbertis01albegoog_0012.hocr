@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./troilusalbertis01albegoog_0012.png"; bbox 0 0 3368 4792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 688 1586 947 1643">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 688 1586 947 1643">
+     <span class='ocr_line' id='line_1_1' title="bbox 688 1586 947 1643; baseline 0.012 -3"><span class='ocrx_word' id='word_1_1' title='bbox 688 1586 758 1643; x_wconf 79' lang='lat' dir='ltr'>Pus</span> <span class='ocrx_word' id='word_1_2' title='bbox 781 1587 947 1643; x_wconf 77' lang='lat' dir='ltr'>MANIBUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 567 1781 1071 1854">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 567 1781 1071 1854">
+     <span class='ocr_line' id='line_1_2' title="bbox 567 1781 1071 1854; baseline 0.006 -5"><span class='ocrx_word' id='word_1_3' title='bbox 567 1781 811 1854; x_wconf 81' lang='lat' dir='ltr'><strong>FAUTORUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 833 1782 1071 1852; x_wconf 82' lang='lat' dir='ltr'>AMIOORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 641 2043 990 2132">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 641 2043 990 2132">
+     <span class='ocr_line' id='line_1_3' title="bbox 641 2043 990 2132; baseline 0.003 -1"><span class='ocrx_word' id='word_1_5' title='bbox 641 2044 679 2132; x_wconf 87' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_6' title='bbox 712 2043 760 2131; x_wconf 81' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_7' title='bbox 792 2045 990 2132; x_wconf 77' lang='lat' dir='ltr'>EBER&#39;PI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 493 2313 1139 2402">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 493 2313 1139 2402">
+     <span class='ocr_line' id='line_1_4' title="bbox 493 2313 1139 2402; baseline 0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 493 2313 536 2401; x_wconf 82' lang='lat'>0.</span> <span class='ocrx_word' id='word_1_9' title='bbox 569 2316 614 2400; x_wconf 90' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_10' title='bbox 649 2313 692 2401; x_wconf 82' lang='lat'>0.</span> <span class='ocrx_word' id='word_1_11' title='bbox 726 2313 1139 2402; x_wconf 75' lang='lat' dir='ltr'><strong>SOHOENEMANNI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 619 2581 1012 2670">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 619 2581 1012 2670">
+     <span class='ocr_line' id='line_1_5' title="bbox 619 2581 1012 2670; baseline -0.005 0"><span class='ocrx_word' id='word_1_12' title='bbox 619 2584 663 2670; x_wconf 84' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_13' title='bbox 697 2581 1012 2670; x_wconf 71' lang='lat' dir='ltr'>BE&#39;I‘HMANNI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1688 4792">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1688 4792">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1688 4792; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1688 4792; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
